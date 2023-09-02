@@ -9,7 +9,7 @@ from datetime import datetime
 #filetoLoad= "markers.txt"
 
 import requests
-onlineMode = False
+onlineMode = True
 if onlineMode:
     url = "https://radaresavista.pt/wp-content/themes/ansr-radares/data.json"
     response = requests.get(url)
