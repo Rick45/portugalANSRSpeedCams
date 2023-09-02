@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Ricardo">
+  <metadata>
+    <name>Radares ANSR20230902</name>
+    <desc>Portugal Speed Cameras List</desc>
+    <author>
+      <name>Ricardo</name>
+      <link href="https://github.com/Rick45">
+      </link>
+    </author>
+  </metadata>
+  <wpt lat="40.441784" lon="-8.515219">
+    <name>VM 120 - A1 Km 217.4</name>
+    <desc>Concelho: Aveiro, Tipo: VM, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="40.669187" lon="-8.345346">
+    <name>VM 100 - A25 Km 42.469</name>
+    <desc>Concelho: Aveiro, Tipo: VM, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="40.996606" lon="-8.617525">
+    <name>VI 80 - A29 Km 37.3</name>
+    <desc>Concelho: Aveiro, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="40.931116" lon="-8.523679">
+    <name>VI 70 - EN223 Km 18.82</name>
+    <desc>Concelho: Aveiro, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="40.628199" lon="-8.464962">
+    <name>VI 90 - IC2 Km 238.97</name>
+    <desc>Concelho: Aveiro, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.022717" lon="-7.729643">
+    <name>VI 90 - EN260 Km 13.425</name>
+    <desc>Concelho: Beja, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="41.40884" lon="-8.375983">
+    <name>VI 100 - A7 Km 33.25</name>
+    <desc>Concelho: Braga, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.410242" lon="-8.371751">
+    <name>VI 100 - A7 Km 33.658</name>
+    <desc>Concelho: Braga, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.428814" lon="-8.332539">
+    <name>VI 80 - A7 Km 38.15</name>
+    <desc>Concelho: Braga, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.451169" lon="-8.305178">
+    <name>VI 70 - EN101 Km 110.729</name>
+    <desc>Concelho: Braga, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="41.519874" lon="-8.606419">
+    <name>VI 70 - EN103 Km 22.942</name>
+    <desc>Concelho: Braga, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="41.456888" lon="-8.222797">
+    <name>VI 90 - EN206 Km 46.03</name>
+    <desc>Concelho: Braga, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.715347" lon="-8.617172">
+    <name>VM 100 - A3 Km 38.064</name>
+    <desc>Concelho: Braga, Tipo: VM, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="40.398619" lon="-7.340219">
+    <name>VI 70 - EN18 Km 19.627</name>
+    <desc>Concelho: Castelo Branco, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="40.210599" lon="-8.821336">
+    <name>VI 50 - EN109 Km 110.41</name>
+    <desc>Concelho: Coimbra, Tipo: VI, Velocidade: 50</desc>
+  </wpt>
+  <wpt lat="40.131645" lon="-8.476245">
+    <name>VI 70 - IC2 Km 178.7</name>
+    <desc>Concelho: Coimbra, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="40.16952" lon="-8.45523">
+    <name>VI 90 - IC2 Km 183.282</name>
+    <desc>Concelho: Coimbra, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="40.193653" lon="-8.486967">
+    <name>VI 120 - A1 Km 188.6</name>
+    <desc>Concelho: Coimbra, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="40.285597" lon="-8.768802">
+    <name>VM 50 - EN109 Km 100.7</name>
+    <desc>Concelho: Coimbra, Tipo: VM, Velocidade: 50</desc>
+  </wpt>
+  <wpt lat="38.814129" lon="-7.476851">
+    <name>VI 90 - EN4 Km 155.6</name>
+    <desc>Concelho: Évora, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="37.211742" lon="-8.238832">
+    <name>VI 120 - A2 Km 233.114</name>
+    <desc>Concelho: Faro, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="37.138036" lon="-8.465725">
+    <name>VI 70 - EN125 Km 49.575</name>
+    <desc>Concelho: Faro, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="37.12886" lon="-8.277346">
+    <name>VI 80 - EN125 Km 68.65</name>
+    <desc>Concelho: Faro, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="37.038239" lon="-7.94999">
+    <name>VI 70 - EN125 Km 102</name>
+    <desc>Concelho: Faro, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="37.032439" lon="-7.96534">
+    <name>VI 70 - EN125-10 Km 1.43</name>
+    <desc>Concelho: Faro, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="39.769438" lon="-8.770456">
+    <name>VI 60 - IC2 Km 128.04</name>
+    <desc>Concelho: Leiria, Tipo: VI, Velocidade: 60</desc>
+  </wpt>
+  <wpt lat="38.798863" lon="-9.109199">
+    <name>VI 120 - A1 Km 2.1</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.815601" lon="-9.101393">
+    <name>VI 120 - A1 Km 4.1</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="39.113344" lon="-8.925835">
+    <name>VI 120 - A1 Km 42</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.725424" lon="-9.189994">
+    <name>VI 120 - A5 Km 1.1</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.716667" lon="-9.231854">
+    <name>VI 120 - A5 Km 4.965</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.718125" lon="-9.251005">
+    <name>VI 120 - A5 Km 6.825</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.713415" lon="-9.258621">
+    <name>VI 120 - A5 Km 7.75</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.866613" lon="-9.199776">
+    <name>VI 100 - A8 Km 11.836</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="38.68553" lon="-9.310406">
+    <name>VI 50 - EN6 Km 7.875</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 50</desc>
+  </wpt>
+  <wpt lat="38.705973" lon="-9.262971">
+    <name>VI 70 - EN6-3 Km 0.73</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.708446" lon="-9.264078">
+    <name>VI 70 - EN6-3 Km 0.95</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.742541" lon="-9.205158">
+    <name>VI 70 - IC17 Km 6</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.742641" lon="-9.204691">
+    <name>VI 70 - IC17 Km 6</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.743519" lon="-9.205744">
+    <name>VI 70 - IC17 Km 6.2</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.743571" lon="-9.205373">
+    <name>VI 70 - IC17 Km 6.2</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.783398" lon="-9.180104">
+    <name>VI 80 - IC17 Km 12.65</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="38.793827" lon="-9.116209">
+    <name>VI 90 - IC17 Km 17.9</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.74877" lon="-9.255425">
+    <name>VI 100 - IC19 Km 5.3</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="38.747476" lon="-9.26229">
+    <name>VI 80 - IC19 Km 5.91</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="38.76581" lon="-9.304113">
+    <name>VI 100 - IC19 Km 10.25</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="38.847982" lon="-9.086206">
+    <name>VM 80 - IC2 Km 9.75</name>
+    <desc>Concelho: Lisboa, Tipo: VM, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="38.778005" lon="-9.157967">
+    <name>VI 90 - IP7 Km 3.399</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.726923" lon="-9.17281">
+    <name>VI 60 - IP7 Km 10.2</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 60</desc>
+  </wpt>
+  <wpt lat="38.722853" lon="-9.17584">
+    <name>VI 60 - IP7 Km 10.75</name>
+    <desc>Concelho: Lisboa, Tipo: VI, Velocidade: 60</desc>
+  </wpt>
+  <wpt lat="38.924628" lon="-8.890871">
+    <name>VM 80 - EN10 Km 110.71</name>
+    <desc>Concelho: Lisboa, Tipo: VM, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="38.751066" lon="-9.286483">
+    <name>VM 80 - IC19 Km 8.15</name>
+    <desc>Concelho: Lisboa, Tipo: VM, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.147708" lon="-8.579851">
+    <name>VI 80 - A20 Km 9.1</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.160016" lon="-8.582212">
+    <name>VI 80 - A20 Km 10.63</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.17195" lon="-8.596268">
+    <name>VI 80 - A20 Km 12.65</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.173654" lon="-8.621735">
+    <name>VI 80 - A20 Km 14.9</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.172346" lon="-8.629531">
+    <name>VI 80 - A20 Km 15.61</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.171551" lon="-8.634925">
+    <name>VI 80 - A20 Km 16.075</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.309358" lon="-8.698435">
+    <name>VI 120 - A28 Km 21.1</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="41.413638" lon="-8.759868">
+    <name>VI 100 - A28 Km 34.3</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.027799" lon="-8.624372">
+    <name>VI 80 - A29 Km 40.9</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.079369" lon="-8.634852">
+    <name>VI 100 - A29 Km 47.3</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.189294" lon="-8.668353">
+    <name>VI 60 - A4 Km 0.1</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 60</desc>
+  </wpt>
+  <wpt lat="41.261041" lon="-8.373113">
+    <name>VM 100 - A42 Km 9.1</name>
+    <desc>Concelho: Porto, Tipo: VM, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.11988" lon="-8.62431">
+    <name>VI 80 - A44 Km 4.48</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.312064" lon="-8.470745">
+    <name>VI 70 - EN105 Km 20.035</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="41.228078" lon="-8.626361">
+    <name>VI 70 - EN14 Km 6.104</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="41.22757" lon="-8.195303">
+    <name>VM 70 - EN211 Km 1.39</name>
+    <desc>Concelho: Porto, Tipo: VM, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="41.074422" lon="-8.579918">
+    <name>VI 80 - A1 Km 292.356</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.078557" lon="-8.581285">
+    <name>VI 80 - A1 Km 292.943</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="41.185276" lon="-8.59383">
+    <name>VI 120 - A3 Km 1.5</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="41.195028" lon="-8.590604">
+    <name>VI 120 - A3 Km 2.8</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="41.30526" lon="-8.531012">
+    <name>VM 100 - A3 Km 16.91</name>
+    <desc>Concelho: Porto, Tipo: VM, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.197177" lon="-8.506583">
+    <name>VI 120 - A4 Km 15.2</name>
+    <desc>Concelho: Porto, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="39.490728" lon="-8.4366">
+    <name>VI 100 - A23 Km 18.6</name>
+    <desc>Concelho: Santarém, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="38.793245" lon="-8.880816">
+    <name>VI 90 - EN118 Km 17.4</name>
+    <desc>Concelho: Santarém, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.881689" lon="-8.88125">
+    <name>VI 90 - EN118 Km 27.45</name>
+    <desc>Concelho: Santarém, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.864678" lon="-8.694231">
+    <name>VI 50 - EN119 Km 27.95</name>
+    <desc>Concelho: Santarém, Tipo: VI, Velocidade: 50</desc>
+  </wpt>
+  <wpt lat="39.253794" lon="-8.737643">
+    <name>VM 120 - A1 Km 65.18</name>
+    <desc>Concelho: Santarém, Tipo: VM, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.975738" lon="-8.453153">
+    <name>VI 90 - EN251 Km 39.225</name>
+    <desc>Concelho: Santarém, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.644307" lon="-9.16345">
+    <name>VI 120 - A2 Km 8.75</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.613945" lon="-9.118607">
+    <name>VI 120 - A2 Km 13.95</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="38.561568" lon="-8.785262">
+    <name>VI 70 - EN10 Km 49.9</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.663788" lon="-9.18108">
+    <name>VI 90 - IC20 Km 1.9</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 90</desc>
+  </wpt>
+  <wpt lat="38.662539" lon="-9.183947">
+    <name>VI 70 - IC20 Km 2.15</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.648986" lon="-9.228673">
+    <name>VI 70 - IC20 Km 6.6</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.715347" lon="-8.617172">
+    <name>VM 70 - EN10 Km 75.71</name>
+    <desc>Concelho: Setúbal, Tipo: VM, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.64443" lon="-8.914997">
+    <name>VI 70 - EN252 Km 5.203</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="38.613397" lon="-8.911392">
+    <name>VI 50 - EN252 Km 9.016</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 50</desc>
+  </wpt>
+  <wpt lat="38.679428" lon="-8.923128">
+    <name>VI 70 - EN5 Km 5.974</name>
+    <desc>Concelho: Setúbal, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+  <wpt lat="41.140647" lon="-7.77225">
+    <name>VI 100 - A24 Km 93.68</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="41.105359" lon="-7.775918">
+    <name>VI 100 - A24 Km 97.9</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="40.68037" lon="-8.281167">
+    <name>VI 100 - A25 Km 48.8</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 100</desc>
+  </wpt>
+  <wpt lat="40.688134" lon="-8.244589">
+    <name>VI 120 - A25 Km 52.2</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="40.693284" lon="-8.136925">
+    <name>VI 120 - A25 Km 62.4</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 120</desc>
+  </wpt>
+  <wpt lat="40.651168" lon="-7.867431">
+    <name>VI 80 - A25 Km 94</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="40.643185" lon="-7.85844">
+    <name>VI 80 - A25 Km 96</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 80</desc>
+  </wpt>
+  <wpt lat="40.515384" lon="-7.887122">
+    <name>VI 70 - EN234 Km 88.672</name>
+    <desc>Concelho: Viseu, Tipo: VI, Velocidade: 70</desc>
+  </wpt>
+</gpx>
